@@ -15,6 +15,9 @@ fuentes de distinto carácter.
 ° Comprender el uso del teorema de Millman para poder resolver circuitos con varias fuentes de intensidad.
 
 # MARCO TEORICO
+![56](https://user-images.githubusercontent.com/85193519/126658178-74b8e9c2-0adc-47df-9c62-57dd3af8bfbe.jpg)
+![57](https://user-images.githubusercontent.com/85193519/126658198-2071af59-b7db-476a-9e3d-7f140b762c43.jpg)
+![58](https://user-images.githubusercontent.com/85193519/126658219-60cbdb3f-1a99-42b3-b1b4-43415ad8732a.jpg)
 
 # RESOLUCION DE EJERCICIOS
 * CAPITULO 9
@@ -41,6 +44,11 @@ fuentes de distinto carácter.
 ![34](https://user-images.githubusercontent.com/85193519/126564687-962f95cb-5031-4826-9b92-8849cf39c610.jpg)
 ![35](https://user-images.githubusercontent.com/85193519/126564706-81ccb2f0-5449-49a0-8a9a-18efedcc3787.jpg)
 ![36](https://user-images.githubusercontent.com/85193519/126564720-ca7d0089-0383-44ad-aca4-eef45ad5c919.jpg)
+![43](https://user-images.githubusercontent.com/85193519/126657285-516ae97d-e868-4892-961a-088cca145920.jpg)
+![44](https://user-images.githubusercontent.com/85193519/126657306-e14c24df-1b21-43f8-b252-2f162b576c16.jpg)
+![45](https://user-images.githubusercontent.com/85193519/126657323-f690821f-3fe8-429f-9e74-7020ed4a6904.jpg)
+![46](https://user-images.githubusercontent.com/85193519/126657340-6344c4a8-2958-48e9-b330-f541c93e89cf.jpg)
+![47](https://user-images.githubusercontent.com/85193519/126657350-8affd192-e248-4411-8ddb-85f934048945.jpg)
 
 * CAPITULO 10
 
@@ -55,6 +63,14 @@ fuentes de distinto carácter.
 ![39](https://user-images.githubusercontent.com/85193519/126564802-92c98a92-0762-45e8-a60c-be8a85768734.jpg)
 ![40](https://user-images.githubusercontent.com/85193519/126564814-22f09f43-0924-452a-8569-367616102a6c.jpg)
 ![41](https://user-images.githubusercontent.com/85193519/126564823-301347e7-6a5b-4f70-b8c1-c875941626c0.jpg)
+![48](https://user-images.githubusercontent.com/85193519/126657373-6eef4a7c-9eb2-4bfe-aae4-ca1744229244.jpg)
+![49](https://user-images.githubusercontent.com/85193519/126657389-365b8945-68b2-4b1d-a3a7-e29b2fd4a546.jpg)
+![50](https://user-images.githubusercontent.com/85193519/126657412-7dadd04d-88c6-49f4-986f-7199d4d1b77b.jpg)
+![51](https://user-images.githubusercontent.com/85193519/126657424-84204c24-0f3f-4560-8ebd-7875104bebdf.jpg)
+![52](https://user-images.githubusercontent.com/85193519/126657445-882b03be-ad37-40b6-b14f-bf239567c637.jpg)
+![53](https://user-images.githubusercontent.com/85193519/126657466-ae3eeba4-9b70-4022-8a1f-0052c6e61fb1.jpg)
+![54](https://user-images.githubusercontent.com/85193519/126657485-f84c9f80-2bac-4156-adba-3d45b26b367d.jpg)
+![55](https://user-images.githubusercontent.com/85193519/126657504-a8bfd8b0-a361-43f6-a3ea-0745fb0f5a6f.jpg)
 
 # VIDEO
 
