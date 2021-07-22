@@ -19,6 +19,16 @@ fuentes de distinto carácter.
 # RESOLUCION DE EJERCICIOS
 * CAPITULO 9
 
+![1](https://user-images.githubusercontent.com/85193519/126575299-f4b07f6f-e3ac-4a8f-935b-32dc6a8260f5.jpg)
+![2](https://user-images.githubusercontent.com/85193519/126575308-10fdd182-05df-478c-beba-a092a17e0b6d.jpg)
+![3](https://user-images.githubusercontent.com/85193519/126575313-636d7f13-d889-4f2c-967f-efbcc2365476.jpg)
+![4](https://user-images.githubusercontent.com/85193519/126575316-680c429b-3c80-4180-b1d3-1c7b0a593741.jpg)
+![5](https://user-images.githubusercontent.com/85193519/126575322-8b7822e7-5e0c-48be-b4e9-73d7c9f90b08.jpg)
+![6](https://user-images.githubusercontent.com/85193519/126575330-7978cce6-42d9-4569-a64b-ef5a0a5bdcfd.jpg)
+![7](https://user-images.githubusercontent.com/85193519/126575337-63ead4e2-08e0-4e6d-9540-d015eba5ea0e.jpg)
+![8](https://user-images.githubusercontent.com/85193519/126575340-dedf06ec-f582-41be-844a-11006bbc277c.jpg)
+
+
 ![29](https://user-images.githubusercontent.com/85193519/126564630-031e7e17-c54c-43c6-8b67-3a11b29a6fc9.jpg)
 ![30](https://user-images.githubusercontent.com/85193519/126564641-b5618eaa-5ee3-41dc-9f4a-e6fb653e936e.jpg)
 ![31](https://user-images.githubusercontent.com/85193519/126564655-b718f065-3df7-48e5-be1d-1441a0f8a1f2.jpg)
