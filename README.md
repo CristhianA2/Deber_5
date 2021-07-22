@@ -18,6 +18,8 @@ fuentes de distinto carácter.
 ![56](https://user-images.githubusercontent.com/85193519/126658178-74b8e9c2-0adc-47df-9c62-57dd3af8bfbe.jpg)
 ![57](https://user-images.githubusercontent.com/85193519/126658198-2071af59-b7db-476a-9e3d-7f140b762c43.jpg)
 ![58](https://user-images.githubusercontent.com/85193519/126658219-60cbdb3f-1a99-42b3-b1b4-43415ad8732a.jpg)
+![A](https://user-images.githubusercontent.com/85193519/126681418-11d61d3f-28d1-4f21-9ca3-5c42f0535b7d.jpg)
+![B](https://user-images.githubusercontent.com/85193519/126681449-368abef3-ead7-48be-8793-a7d22361e9fd.jpg)
 
 # RESOLUCION DE EJERCICIOS
 * CAPITULO 9
