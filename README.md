@@ -27,8 +27,12 @@ fuentes de distinto carácter.
 ![6](https://user-images.githubusercontent.com/85193519/126575330-7978cce6-42d9-4569-a64b-ef5a0a5bdcfd.jpg)
 ![7](https://user-images.githubusercontent.com/85193519/126575337-63ead4e2-08e0-4e6d-9540-d015eba5ea0e.jpg)
 ![8](https://user-images.githubusercontent.com/85193519/126575340-dedf06ec-f582-41be-844a-11006bbc277c.jpg)
-
-
+![15](https://user-images.githubusercontent.com/85193519/126585777-cf945ac5-e7dc-4089-9071-74dd4854b9ac.jpg)
+![16](https://user-images.githubusercontent.com/85193519/126585810-191415b5-16ba-42f2-ab14-c30f7375b0c9.jpg)
+![17](https://user-images.githubusercontent.com/85193519/126585819-61087776-9f33-4727-ab46-0a62814a8f03.jpg)
+![18](https://user-images.githubusercontent.com/85193519/126585832-0c4e74e9-6ed2-4347-9f45-957cc922ca69.jpg)
+![19](https://user-images.githubusercontent.com/85193519/126585845-d7d07f02-7c7d-4671-a804-62dfdff76d33.jpg)
+![20](https://user-images.githubusercontent.com/85193519/126585853-863965d5-0b8f-40da-a648-c92752bc1fc5.jpg)
 ![29](https://user-images.githubusercontent.com/85193519/126564630-031e7e17-c54c-43c6-8b67-3a11b29a6fc9.jpg)
 ![30](https://user-images.githubusercontent.com/85193519/126564641-b5618eaa-5ee3-41dc-9f4a-e6fb653e936e.jpg)
 ![31](https://user-images.githubusercontent.com/85193519/126564655-b718f065-3df7-48e5-be1d-1441a0f8a1f2.jpg)
@@ -40,6 +44,12 @@ fuentes de distinto carácter.
 
 * CAPITULO 10
 
+![a](https://user-images.githubusercontent.com/85193519/126586176-1a7cf8e7-ccf3-4057-9c4a-92ab78f149d2.jpg)
+![b](https://user-images.githubusercontent.com/85193519/126586192-098e2e15-0a1a-46ea-b76a-46a95e757316.jpg)
+![c](https://user-images.githubusercontent.com/85193519/126586197-a8e451cb-72fb-4e7b-a46a-a85baf6a0a32.jpg)
+![d](https://user-images.githubusercontent.com/85193519/126586204-34dc4e1f-9a06-44d5-95f7-f467909485bc.jpg)
+![e](https://user-images.githubusercontent.com/85193519/126586215-a3eef407-db5b-4d79-9919-4624ef68260f.jpg)
+![f](https://user-images.githubusercontent.com/85193519/126586222-c0f2efe3-58c4-445b-ad5e-1e0a37d1352b.jpg)
 ![37](https://user-images.githubusercontent.com/85193519/126564774-45049dbc-acfa-4ee5-80cf-85a31f1f693c.jpg)
 ![38](https://user-images.githubusercontent.com/85193519/126564785-35befe1e-090e-4f79-a246-2c1244b6f3c6.jpg)
 ![39](https://user-images.githubusercontent.com/85193519/126564802-92c98a92-0762-45e8-a60c-be8a85768734.jpg)
