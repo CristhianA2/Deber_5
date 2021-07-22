@@ -75,8 +75,6 @@ fuentes de distinto carácter.
 # VIDEO
 https://www.youtube.com/watch?v=lY-ueTn6tgc
 # CONCLUSIONES
-Concluimos que los dos teoremas son muy útiles por que nos permite reducir una red de configuración compleja, en una de configuración sencilla.
-En teorema de THEVENIN se concluye con la ley de Ohm para calcular la corriente circulante en una de las ramas.
-En el teorema de NORTON, se concluye con el divisor de corriente para determinar la corriente circundante en una de las ramas.
+La capacitancia y la resistencia son dos fenomenos diametralmente opuestos, de manera aislada la resistencia a nivel matematico y practico, comprender ambos conceptos nos facilitan aplicaciones tales como el teorema de superposicion o encontrar circuitos equivalentes mediante cualquier metodo o a su vez la inductancia nos permite calcular cargas para poder almacenarlas y emplearlas en circuitos mas complejos entre otros.
 # BIBLIOGRAFIA
 Robbins, A., & Miller, W. (2008). Análisis de circuitos. Estados Unidos: Cengage Learning.
