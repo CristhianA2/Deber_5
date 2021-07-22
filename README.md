@@ -73,8 +73,10 @@ fuentes de distinto carácter.
 ![55](https://user-images.githubusercontent.com/85193519/126657504-a8bfd8b0-a361-43f6-a3ea-0745fb0f5a6f.jpg)
 
 # VIDEO
-
+https://www.youtube.com/watch?v=lY-ueTn6tgc
 # CONCLUSIONES
-
+Concluimos que los dos teoremas son muy útiles por que nos permite reducir una red de configuración compleja, en una de configuración sencilla.
+En teorema de THEVENIN se concluye con la ley de Ohm para calcular la corriente circulante en una de las ramas.
+En el teorema de NORTON, se concluye con el divisor de corriente para determinar la corriente circundante en una de las ramas.
 # BIBLIOGRAFIA
-Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
+Robbins, A., & Miller, W. (2008). Análisis de circuitos. Estados Unidos: Cengage Learning.
